@@ -96,16 +96,16 @@ I'm always learning and building small, useful projects along the way. Alongside
 <p>
   <a href="https://github.com/nvhieu19">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nvhieu19&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nvhieu19&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=FFFFFF&title_color=0969DA&icon_color=8250DF&text_color=1F2328" />
-      <img width="400" alt="GitHub stats: stars, commits, pull requests, issues and contributions" src="https://github-readme-stats.vercel.app/api?username=nvhieu19&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nvhieu19&theme=github_dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nvhieu19&theme=default" />
+      <img width="400" alt="GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nvhieu19&theme=github_dark" />
     </picture>
   </a>
   <a href="https://github.com/nvhieu19?tab=repositories">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nvhieu19&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nvhieu19&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=1F2328" />
-      <img width="300" alt="Most used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvhieu19&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nvhieu19&theme=github_dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nvhieu19&theme=default" />
+      <img width="300" alt="Languages used across public repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nvhieu19&theme=github_dark" />
     </picture>
   </a>
 </p>
@@ -189,14 +189,14 @@ I'm always learning and building small, useful projects along the way. Alongside
 
 <br />
 
-## Contribution Snake
+## Contribution Graph
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nvhieu19/nvhieu19/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nvhieu19/nvhieu19/output/github-snake.svg" />
-  <img alt="Snake animation eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/nvhieu19/nvhieu19/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58A6FF/nvhieu19" />
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0969DA/nvhieu19" />
+  <img alt="GitHub contribution graph" src="https://ghchart.rshah.org/58A6FF/nvhieu19" width="100%" />
 </picture>
 
 </div>
