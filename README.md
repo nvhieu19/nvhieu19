@@ -20,7 +20,7 @@
 
 <br />
 
-## About Me
+<h2>About Me <img align="right" width="56" alt="McDonald's Golden Arches" src="https://cdn.simpleicons.org/mcdonalds/FFC72C" /></h2>
 
 I'm a developer who enjoys building practical things with **Node.js**. I like working on applications and backend services, and I use **Python** for scripting and automation.
 
@@ -30,6 +30,12 @@ I'm always learning and building small, useful projects along the way. Alongside
 
 <p>
   <img alt="McDonald's part-time manager" src="https://img.shields.io/badge/McDonald's-Part--Time%20Manager-DA291C?style=for-the-badge&logo=mcdonalds&logoColor=FFC72C" />
+</p>
+
+<p align="center">
+  <img alt="Fries first, code later" src="https://img.shields.io/badge/FRIES%20FIRST-CODE%20LATER-DA291C?style=for-the-badge&logo=mcdonalds&logoColor=FFC72C" />
+  <img alt="Shift manager, squad mode" src="https://img.shields.io/badge/SHIFT%20MODE-SQUAD%20LEADER-FFC72C?style=for-the-badge&logo=mcdonalds&logoColor=DA291C" />
+  <img alt="Bugs fixed, burgers flipped" src="https://img.shields.io/badge/BUGS%20FIXED-BURGERS%20FLIPPED-0D1117?style=for-the-badge&logo=mcdonalds&logoColor=FFC72C" />
 </p>
 
 <br />
