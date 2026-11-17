@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<p align="right"><img width="96" alt="Funny McDonald's meme sticker" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWx6Nzd5ODVtaGNibXp6bTRtN2k3cHlyOHdwMWRpbng2bnV3bTJwMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f7eiZxbjXcqKteMz1X/giphy.gif" /></p>
-
 <img width="100%" alt="Nguyễn Văn Hiếu – banner" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:8957E5&section=header&text=Nguy%E1%BB%85n%20V%C4%83n%20Hi%E1%BA%BFu&fontSize=48&fontColor=F0F6FC&fontAlignY=38&animation=fadeIn&desc=%40nvhieu19&descSize=20&descAlignY=60" />
 
 <a href="https://github.com/nvhieu19">
@@ -29,6 +27,8 @@ I'm a developer who enjoys building practical things with **Node.js**. I like wo
 Outside of code, I'm drawn to **Windows troubleshooting**, software optimization and **PC hardware** – diagnosing problems and tuning systems for better performance. I'm also curious about **AI tools**, AI-assisted coding and how emerging technologies fit into everyday development.
 
 I'm always learning and building small, useful projects along the way. Alongside my technical work, I work part-time as a manager at McDonald's, where I continue to build leadership, teamwork and operations skills.
+
+<p align="center"><img width="56" alt="McDonald's Golden Arches" src="https://cdn.simpleicons.org/mcdonalds/FFC72C" /></p>
 
 <br />
 
