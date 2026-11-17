@@ -28,7 +28,7 @@ Outside of code, I'm drawn to **Windows troubleshooting**, software optimization
 
 I'm always learning and building small, useful projects along the way. Alongside my technical work, I work part-time as a manager at McDonald's, where I continue to build leadership, teamwork and operations skills.
 
-<p align="center"><img width="56" alt="McDonald's Golden Arches" src="https://cdn.simpleicons.org/mcdonalds/FFC72C" /></p>
+<p align="center"><img alt="McDonald's | Part-Time Manager" src="https://img.shields.io/badge/McDonald's-Part--Time%20Manager-DA291C?style=for-the-badge&logo=mcdonalds&logoColor=FFC72C" /></p>
 
 <br />
 
