@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="150" viewBox="0 0 220 150" role="img" aria-label="Issues: — all time" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+  <title>Issues: — all time</title>
+  <rect x="0.5" y="0.5" width="219" height="149" rx="10" fill="#FFFFFF" stroke="#D0D7DE"/>
+  <rect x="0.5" y="0.5" width="219" height="4" rx="2" fill="#1A7F37"/>
+  <g transform="translate(20 22) scale(1.1)" fill="#1A7F37"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"/></g>
+  <text x="44" y="35" font-size="14" font-weight="600" fill="#1A7F37">Issues</text>
+  <text x="20" y="82" font-size="36" font-weight="700" fill="#1F2328">—</text>
+  <text x="20" y="102" font-size="11" fill="#656D76" letter-spacing="0.8">ALL TIME</text>
+  <line x1="20" y1="112" x2="200" y2="112" stroke="#D0D7DE"/>
+  <text x="20" y="128" font-size="12" fill="#656D76">Waiting for first sync</text>
+</svg>
