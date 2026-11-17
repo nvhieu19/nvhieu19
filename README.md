@@ -12,6 +12,7 @@
   <a href="https://github.com/nvhieu19?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/nvhieu19?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0D1117&color=1F6FEB" /></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=nvhieu19&style=for-the-badge&label=Profile+Views&labelColor=0D1117&color=8957E5" />
   <a href="https://github.com/nvhieu19?tab=repositories"><img alt="Public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnvhieu19&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&label=Repositories&labelColor=0D1117&color=1F6FEB" /></a>
+  <a href="mailto:ng.vanhieu195@gmail.com"><img alt="Email Nguyễn Văn Hiếu" src="https://img.shields.io/badge/Email-ng.vanhieu195%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
   <img alt="Current focus: Node.js backend and AI integration" src="https://img.shields.io/badge/Current%20Focus-Node.js%20%C2%B7%20Backend%20%C2%B7%20AI-8957E5?style=for-the-badge&labelColor=0D1117" />
 </p>
 
@@ -25,7 +26,11 @@ I'm a developer who enjoys building practical things with **Node.js**. I like wo
 
 Outside of code, I'm drawn to **Windows troubleshooting**, software optimization and **PC hardware** – diagnosing problems and tuning systems for better performance. I'm also curious about **AI tools**, AI-assisted coding and how emerging technologies fit into everyday development.
 
-I'm always learning and building small, useful projects along the way. I currently work part-time at McDonald's while continuing to grow my technical skills and personal projects.
+I'm always learning and building small, useful projects along the way. Alongside my technical work, I work part-time as a manager at McDonald's, where I continue to build leadership, teamwork and operations skills.
+
+<p>
+  <img alt="McDonald's part-time manager" src="https://img.shields.io/badge/McDonald's-Part--Time%20Manager-DA291C?style=for-the-badge&logo=mcdonalds&logoColor=FFC72C" />
+</p>
 
 <br />
 
@@ -49,7 +54,7 @@ I'm always learning and building small, useful projects along the way. I current
   <tr>
     <td align="center"><b>Database</b></td>
     <td>
-      <img alt="MySQL, MongoDB, Prisma" src="https://skillicons.dev/icons?i=mysql,mongodb,prisma&theme=dark" />
+      <img alt="MySQL, Microsoft SQL Server" src="https://skillicons.dev/icons?i=mysql,mssql&theme=dark" />
     </td>
   </tr>
   <tr>
